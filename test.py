@@ -1,3 +1,9 @@
+'''
+该代码适用于新闻年份文件
+即到2005年为止
+'''
+
+
 import os
 from functools import reduce
 
